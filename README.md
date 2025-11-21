@@ -47,16 +47,16 @@ La aplicación incluye validaciones de campos, mensajes de error específicos, c
 ## Estructura del Proyecto
 
 RegistroPacientes/
-├── RegistroPacientes.sln # Archivo de solución de Visual Studio
+├── RegistroPacientes.sln          # Archivo de solución de Visual Studio
 ├── RegistroPacientes/
-│ ├── RegistroInicio.cs # Formulario inicial con datos básicos
-│ ├── RegistroInicio.Designer.cs
-│ ├── RegistroFinal.cs # Formulario final con datos específicos
-│ ├── RegistroFinal.Designer.cs
-│ ├── Program.cs # Punto de entrada de la aplicación
-│ └── recursos/ # Carpeta con recursos gráficos y adicionales
+│   ├── RegistroInicio.cs           # Formulario inicial con datos básicos
+│   ├── RegistroInicio.Designer.cs
+│   ├── RegistroFinal.cs            # Formulario final con datos específicos
+│   ├── RegistroFinal.Designer.cs
+│   ├── Program.cs                  # Punto de entrada de la aplicación
+│   └── recursos/                   # Carpeta con recursos gráficos y adicionales
 ├── .gitignore
-└── README.md # Documentación del proyecto
+└── README.md                       # Documentación del proyecto
 
 ---
 
@@ -81,4 +81,6 @@ git clone https://github.com/tu_usuario/RegistroPacientes.git
 
 > **Nota:** La aplicación está diseñada como demo académica. No requiere configuraciones adicionales más allá de Visual Studio.
 
-## Licencia Este proyecto está bajo la **Licencia MIT**. Se permite usar, modificar y distribuir el proyecto siempre que se reconozca al autor original.
+## Licencia
+
+Este proyecto está bajo la **Licencia MIT**. Se permite usar, modificar y distribuir el proyecto siempre que se reconozca al autor original.
