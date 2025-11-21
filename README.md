@@ -72,9 +72,7 @@ git clone https://github.com/tu_usuario/RegistroPacientes.git
 3. Compila y ejecuta la aplicación.
 
 4. Completa los formularios:
-
   • RegistroInicial: Datos personales del paciente.
-
   • RegistroFinal: Información adicional y complementaria.
 
 5. Confirma el registro y observa los mensajes emergentes.
