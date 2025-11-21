@@ -46,6 +46,7 @@ La aplicación incluye validaciones de campos, mensajes de error específicos, c
 
 ## Estructura del Proyecto
 
+```text
 RegistroPacientes/
 ├── RegistroPacientes.sln          # Archivo de solución de Visual Studio
 ├── RegistroPacientes/
@@ -57,6 +58,7 @@ RegistroPacientes/
 │   └── recursos/                   # Carpeta con recursos gráficos y adicionales
 ├── .gitignore
 └── README.md                       # Documentación del proyecto
+```
 
 ---
 
