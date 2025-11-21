@@ -72,10 +72,12 @@ git clone https://github.com/tu_usuario/RegistroPacientes.git
 3. Compila y ejecuta la aplicación.
 
 4. Completa los formularios:
-  • RegistroInicial: Datos personales del paciente.
-  • RegistroFinal: Información adicional y complementaria.
 
-5. Confirma el registro y observa los mensajes emergentes.
+    • RegistroInicial: Datos personales del paciente.
+  
+    • RegistroFinal: Información adicional y complementaria.
+
+6. Confirma el registro y observa los mensajes emergentes.
 
 > **Nota:** La aplicación está diseñada como demo académica. No requiere configuraciones adicionales más allá de Visual Studio.
 
