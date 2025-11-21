@@ -65,7 +65,7 @@ RegistroPacientes/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/RegistroPacientes.git
+git clone https://github.com/carlosluna1611/registro-pacientes.git
 ```
 2. Abre el proyecto en Visual Studio seleccionando el archivo .sln.
 
