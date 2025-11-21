@@ -48,25 +48,15 @@ La aplicación incluye validaciones de campos, mensajes de error específicos, c
 
 RegistroPacientes/
 ├── RegistroPacientes.sln          # Archivo de solución de Visual Studio
-
 ├── RegistroPacientes/
-
 │   ├── RegistroInicio.cs           # Formulario inicial con datos básicos
-
 │   ├── RegistroInicio.Designer.cs
-
 │   ├── RegistroFinal.cs            # Formulario final con datos específicos
-
 │   ├── RegistroFinal.Designer.cs
-
 │   ├── Program.cs                  # Punto de entrada de la aplicación
-
 │   └── recursos/                   # Carpeta con recursos gráficos y adicionales
-
 ├── .gitignore
-
 └── README.md                       # Documentación del proyecto
-
 
 ---
 
