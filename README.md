@@ -3,7 +3,7 @@
 ![Contributors](https://img.shields.io/badge/Contributors-Carlos%20Luna-blue)
 ![Language](https://img.shields.io/badge/Language-C%23-blue?logo=c-sharp&logoColor=white)
 ![Framework](https://img.shields.io/badge/Framework-Windows%20Forms-orange)
-![Status](https://img.shields.io/badge/Status-Jugable%20(Beta%20completada)-success)
+
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ---
