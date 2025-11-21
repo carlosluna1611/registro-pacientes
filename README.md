@@ -58,6 +58,7 @@ RegistroPacientes/
 ├── .gitignore
 └── README.md                       # Documentación del proyecto
 
+
 ---
 
 ## Cómo utilizar la aplicación
