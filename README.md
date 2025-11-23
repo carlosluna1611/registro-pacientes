@@ -18,7 +18,7 @@ Se implementaron dos ventanas principales:
 
 La aplicación incluye validaciones de campos, mensajes de error específicos, confirmaciones emergentes y botones de navegación seguros (Guardar, Regresar, Salir).
 
-<img src="graficos/registro1.jpg" alt="Registro Datos Personales" width="320"/><img src="graficos/registro2.jpg" alt="Registro Datos Especificos" width="300"/>
+<img src="graficos/registro1.jpg" alt="Registro Datos Personales" width="700"/>
 
 ---
 
@@ -33,7 +33,9 @@ La aplicación incluye validaciones de campos, mensajes de error específicos, c
 
 - Formularios interactivos con interfaz clara y profesional.  
 - Notificaciones emergentes para confirmar registros exitosos.  
-- Gestión completa de errores por campo y panel de datos.  
+- Gestión completa de errores por campo y panel de datos.
+ 
+<img src="graficos/registro2.jpg" alt="Registro Datos Especificos" width="700"/>
 
 ---
 
