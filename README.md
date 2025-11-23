@@ -18,7 +18,7 @@ Se implementaron dos ventanas principales:
 
 La aplicación incluye validaciones de campos, mensajes de error específicos, confirmaciones emergentes y botones de navegación seguros (Guardar, Regresar, Salir).
 
-<img src="graficos/registro1.png" alt="Registro Datos Personales" width="320"/><img src="graficos/registro2.png" alt="Registro Datos Especificos" width="300"/>
+<img src="graficos/registro1.jpg" alt="Registro Datos Personales" width="320"/><img src="graficos/registro2.jpg" alt="Registro Datos Especificos" width="300"/>
 
 ---
 
